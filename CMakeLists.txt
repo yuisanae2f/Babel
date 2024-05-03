@@ -11,6 +11,7 @@ set(SOURCES
 # Headers for library
 set(HEADERS
     include/ae2fLib/Babel/Transformer.h
+    include/ae2fLib/Babel/Transformer.hpp
 )
 
 # Lib build
